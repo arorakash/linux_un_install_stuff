@@ -1,2 +1,2 @@
-# linux_stuff_install
+# linux_un_install_stuff
 (un)installing stuff on linux
