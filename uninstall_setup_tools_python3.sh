@@ -1,1 +1,1 @@
-python -m pip uninstall setuptools -y
+python3 -m pip uninstall setuptools -y
