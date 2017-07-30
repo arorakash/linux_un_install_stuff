@@ -5,5 +5,9 @@ source $DIRECTORY/uninstall_wheel_python.sh
 source $DIRECTORY/uninstall_wheel_python3.sh
 source $DIRECTORY/uninstall_pip_python.sh
 source $DIRECTORY/uninstall_pip_python3.sh
+source $DIRECTORY/uninstall_virtualenvwrapper_python.sh
+source $DIRECTORY/uninstall_virtualenv_python.sh
+source $DIRECTORY/uninstall_virtualenvwrapper_python3.sh
+source $DIRECTORY/uninstall_virtualenv_python3.sh
 #source $DIRECTORY/uninstall_python.sh
 #source $DIRECTORY/uninstall_python3.sh
