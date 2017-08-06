@@ -1,1 +1,1 @@
-nvm --version
+echo "nvm version is" `nvm --version`
