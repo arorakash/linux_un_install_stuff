@@ -7,3 +7,4 @@ source $DIRECTORY/install_virtualenv_python.sh
 source $DIRECTORY/install_virtualenvwrapper_python.sh
 source $DIRECTORY/install_virtualenv_python3.sh
 source $DIRECTORY/install_virtualenvwrapper_python3.sh
+source $DIRECTORY/install_nvm.sh
