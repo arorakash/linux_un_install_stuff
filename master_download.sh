@@ -1,2 +1,2 @@
 DIRECTORY="/home/`logname`/Downloads"
-source $DIRECTORY/getpip.sh
+source $DIRECTORY/download_pip.sh
