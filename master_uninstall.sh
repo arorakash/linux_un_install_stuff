@@ -1,4 +1,5 @@
 DIRECTORY="/home/`logname`/Downloads"
+source $DIRECTORY/uninstall_node.sh
 source $DIRECTORY/uninstall_nvm.sh
 source $DIRECTORY/uninstall_virtualenvwrapper_python3.sh
 source $DIRECTORY/uninstall_virtualenv_python3.sh
