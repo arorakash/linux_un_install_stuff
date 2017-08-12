@@ -13,3 +13,4 @@ source $DIRECTORY/install_node.sh
 source $DIRECTORY/install_bower.sh
 source $DIRECTORY/install_polymer-cli.sh
 source $DIRECTORY/install_polymer.sh
+source $DIRECTORY/install_resume-cli.sh
