@@ -1,1 +1,1 @@
-python -m pip uninstall pip -y
+sudo python -m pip uninstall pip -y

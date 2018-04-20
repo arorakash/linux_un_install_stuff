@@ -1,1 +1,1 @@
-python /home/`logname`/Downloads/get-pip.py
+sudo python /home/`whoami`/Downloads/get-pip.py
