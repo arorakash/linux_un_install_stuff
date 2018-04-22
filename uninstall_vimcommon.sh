@@ -1,1 +1,1 @@
-sudo apt-get remove vim-common
+sudo apt-get -y remove vim-common
